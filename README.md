@@ -4,8 +4,3 @@
 
 ## 주제 : 스마트치안
 > 치안환경에 따른 집값, 상권의 활성화 등 지대 상승 예측 방안
-
-## 작업환경
-- Deepnote : For Jupyter (free version)
-- Google Bigquery : For RDBMS
-
